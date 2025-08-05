@@ -1,7 +1,9 @@
 name: extensio
-description: "A new Flutter package project."
+description: "A set of handy Dart and Flutter extensions."
 version: 0.0.1
-homepage:
+homepage: https://github.com/ubselcuk/extensio
+repository: https://github.com/ubselcuk/extensio
+issue_tracker: https://github.com/ubselcuk/extensio/issues
 
 environment:
   sdk: ^3.8.1

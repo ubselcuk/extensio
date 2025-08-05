@@ -14,6 +14,10 @@ and the Flutter guide for
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
+# Extensio
+
+Extensio is a lightweight Flutter package that adds useful extension methods to core types like `String`, `BuildContext`, `List`, and more.
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
@@ -24,9 +28,6 @@ TODO: List prerequisites and provide or point to information on how to
 start using the package.
 
 ## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 const like = 'sample';
