@@ -1,40 +1,20 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
 # Extensio
 
-Extensio is a lightweight Flutter package that adds useful extension methods to core types like `String`, `BuildContext`, `List`, and more.
+**Extensio** is a lightweight Flutter package that provides useful extension methods to simplify your code.  
+This package aims to enhance native Dart types with concise, reusable utilities that improve readability and reduce boilerplate.
 
-## Features
+---
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## ✨ Features
 
-## Getting started
+- `String?.orEmpty` → Returns an empty string (`''`) if the original string is `null`.
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+---
 
-## Usage
+## 🚀 Getting started
 
-```dart
-const like = 'sample';
-```
+Add Extensio to your `pubspec.yaml` file:
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+```yaml
+dependencies:
+  extensio: ^0.0.1
