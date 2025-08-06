@@ -1,6 +1,6 @@
 name: extensio
 description: "A set of handy Dart and Flutter extensions."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ubselcuk/extensio
 repository: https://github.com/ubselcuk/extensio
 issue_tracker: https://github.com/ubselcuk/extensio/issues
