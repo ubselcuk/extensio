@@ -1,3 +1,7 @@
+## 0.0.4
+* List extensions added.
+* Map extensions added.
+
 ## 0.0.3
 
 * Bool extensions added.

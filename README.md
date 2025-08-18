@@ -17,4 +17,4 @@ Add Extensio to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  extensio: ^0.0.1
+  extensio: ^0.0.4
